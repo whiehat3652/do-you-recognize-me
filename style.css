@@ -1,0 +1,11 @@
+.name_of_object{
+    color: royalblue;
+    font-family: 'Langar', cursive;
+}
+.fonts{
+    font-family: 'JetBrains Mono', monospace;
+}
+body {
+    background-color: palegreen;
+}
+
